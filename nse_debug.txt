@@ -1,0 +1,428 @@
+CASOption ChainMarket TurnoverListingsIPOCircularsDaily ReportHolidaysCorporatesPress ReleasesContact UsEnglisharrow
+NSE India
+Search by Company name, Index or Symb 
+nifty-50-logo
+22,421.95
+-198.50(-0.88%)
+01-Oct-2026 15:30 IST
+Streaming streaming button
+
+
+
+
+
+
+
+
+
+Home
+About
+
+
+
+Market Data
+
+
+
+Invest
+
+
+
+List
+
+
+
+Trade
+
+
+
+Regulation
+Learn
+
+
+
+Resources
+
+
+
+Complaints
+
+
+
+RESEARCH
+
+
+
+Investor Relations
+Market Data
+/
+Equity/Stock
+EQUITY/STOCK
+T0 SETTLEMENT
+SME MARKET
+SOVEREIGN GOLD BONDS (SGB)
+EXCHANGE TRADED FUNDS
+BLOCK DEALS
+REITS/INVITS
+NIFTY 50
+
+Crores
+Advances
+13
+Declines
+37
+Unchanged
+0
+Normal Market is Closed
+As on
+01-Oct-2026 16:00:00 IST
+Streaming
+SYMBOL
+OPEN
+HIGH
+LOW
+PREV.
+CLOSE
+LTP
+INDICATIVE
+CLOSE
+CHANGE
+% CHANGE
+VOLUME
+(shares)
+VALUE
+(₹ Crores)
+52 WEEK HIGH
+52 WEEK LOW
+30 D
+% CHNG
+NIFTY 50	22,543.70	22,610.60	22,217.30	22,620.45	
+22,421.95
+-	-198.50	-0.88	45,13,03,049	36,534.00	26,373.20	22,182.55	
+-6.24%
+KOTAKBANK	426.00	435.60	416.05	417.00	
+418.35
+-	1.35	0.32	7,66,37,247	3,271.26	453.20	345.50	
+-1.22%
+HDFCBANK	708.40	721.30	707.10	708.70	
+721.20
+-	12.50	1.76	3,73,89,857	2,679.06	1,020.50	681.90	
+2.91%
+RELIANCE	1,180.10	1,183.90	1,160.80	1,187.00	
+1,167.70
+-	-19.30	-1.63	1,67,71,221	1,967.45	1,611.80	1,160.80	
+-11.07%
+BSE	3,089.90	3,139.00	3,000.00	3,092.00	
+3,046.00
+-	-46.00	-1.49	62,73,089	1,918.12	4,446.80	2,038.00	
+-3.85%
+ICICIBANK	1,316.00	1,329.90	1,308.40	1,321.70	
+1,310.60
+-	-11.10	-0.84	1,31,63,495	1,735.21	1,480.00	1,187.60	
+-8.12%
+M&M	2,926.00	2,927.40	2,812.00	2,950.00	
+2,860.00
+-	-90.00	-3.05	54,53,321	1,558.18	3,839.90	2,812.00	
+-10.34%
+INFY	1,010.00	1,035.00	999.15	994.10	
+1,035.00
+-	40.90	4.11	1,51,66,446	1,540.94	1,728.00	980.40	
+-9.21%
+BAJAJ-AUTO	10,701.00	10,714.00	9,900.00	10,874.00	
+10,045.00
+-	-829.00	-7.62	14,91,300	1,510.04	12,470.00	8,491.50	
+-17.19%
+MARUTI	11,900.00	11,907.00	11,305.00	11,967.00	
+11,386.00
+-	-581.00	-4.86	8,85,820	1,022.30	17,370.00	11,305.00	
+-11.39%
+BHARTIARTL	1,745.00	1,765.80	1,726.30	1,757.00	
+1,741.10
+-	-15.90	-0.90	56,09,657	980.53	2,174.50	1,726.30	
+-6.53%
+ETERNAL	316.60	320.40	309.80	320.00	
+313.90
+-	-6.10	-1.91	2,97,16,584	932.80	368.45	212.60	
+-4.09%
+AXISBANK	1,219.10	1,241.60	1,215.30	1,226.00	
+1,217.10
+-	-8.90	-0.73	70,05,197	859.01	1,418.30	1,131.00	
+-2.93%
+TATASTEEL	184.37	186.55	175.75	184.30	
+178.00
+-	-6.30	-3.42	4,76,59,952	858.98	224.40	160.06	
+-3.18%
+LT	3,726.00	3,737.30	3,655.90	3,760.00	
+3,693.40
+-	-66.60	-1.77	22,20,932	820.78	4,440.00	3,288.10	
+-7.22%
+APOLLOHOSP	8,090.00	8,135.00	7,910.00	8,165.50	
+8,133.50
+-	-32.00	-0.39	9,39,105	754.90	9,070.50	6,696.50	
+-6.72%
+TCS	2,052.60	2,093.90	2,045.10	2,050.60	
+2,075.00
+-	24.40	1.19	34,28,501	709.99	3,350.00	1,976.80	
+-11.63%
+SBIN	953.10	965.40	945.80	959.50	
+954.10
+-	-5.40	-0.56	73,90,452	706.79	1,234.70	857.25	
+-6.54%
+ULTRACEMCO	10,810.00	10,879.00	10,612.00	10,956.00	
+10,710.00
+-	-246.00	-2.25	5,70,684	611.17	13,110.00	10,325.00	
+-5.99%
+ADANIENT	2,900.00	2,903.70	2,772.00	2,903.40	
+2,816.80
+-	-86.60	-2.98	21,00,334	596.70	3,245.00	1,753.00	
+-2.59%
+JIOFIN	216.00	216.20	208.50	216.88	
+212.50
+-	-4.38	-2.02	2,80,82,023	596.13	316.85	208.50	
+-10.30%
+EICHERMOT	7,120.00	7,146.00	6,840.00	7,150.00	
+6,920.00
+-	-230.00	-3.22	8,17,452	567.26	8,230.00	6,442.00	
+-10.26%
+SBILIFE	1,676.30	1,730.30	1,674.80	1,696.40	
+1,721.60
+-	25.20	1.49	33,29,860	567.11	2,132.00	1,652.90	
+0.10%
+HINDALCO	935.00	946.65	923.50	941.80	
+941.85
+-	0.05	0.01	58,77,840	550.51	1,176.00	754.45	
+-6.72%
+BAJFINANCE	953.90	955.95	937.30	959.40	
+948.30
+-	-11.10	-1.16	56,98,769	539.81	1,176.40	787.90	
+-10.19%
+SHRIRAMFIN	973.50	975.00	936.00	982.70	
+945.00
+-	-37.70	-3.84	55,99,670	532.65	1,153.70	616.05	
+-9.74%
+MAXHEALTH	919.85	950.00	902.05	929.80	
+940.95
+-	11.15	1.20	54,64,461	507.39	1,221.90	902.05	
+-5.34%
+HCLTECH	1,230.00	1,256.00	1,228.90	1,230.00	
+1,243.10
+-	13.10	1.07	34,30,282	425.96	1,780.10	1,030.00	
+-6.64%
+TMPV	280.00	281.30	273.35	283.50	
+279.40
+-	-4.10	-1.45	1,52,58,191	423.11	739.70	272.20	
+-10.66%
+ITC	262.70	262.70	254.65	262.75	
+255.90
+-	-6.85	-2.61	1,64,47,266	423.04	426.40	254.65	
+-3.91%
+SUNPHARMA	1,815.00	1,828.70	1,792.60	1,816.60	
+1,801.00
+-	-15.60	-0.86	23,14,700	418.35	2,046.90	1,583.70	
+-6.77%
+GRASIM	3,038.00	3,045.00	2,944.40	3,061.90	
+2,962.00
+-	-99.90	-3.26	13,85,746	411.46	3,411.10	2,502.50	
+-10.10%
+TECHM	1,540.00	1,554.80	1,512.00	1,524.00	
+1,533.00
+-	9.00	0.59	26,63,224	407.98	1,854.00	1,304.10	
+-5.55%
+BAJAJFINSV	1,723.00	1,734.90	1,703.40	1,731.00	
+1,732.60
+-	1.60	0.09	22,92,234	394.76	2,195.00	1,597.00	
+-12.93%
+BEL	385.20	386.15	378.65	388.30	
+383.10
+-	-5.20	-1.34	1,02,50,149	391.83	473.45	378.65	
+-5.58%
+JSWSTEEL	1,253.00	1,256.40	1,214.80	1,253.40	
+1,233.00
+-	-20.40	-1.63	31,58,301	389.91	1,351.00	1,073.20	
+-5.59%
+ADANIPORTS	1,786.00	1,786.00	1,716.00	1,798.30	
+1,737.80
+-	-60.50	-3.36	21,57,928	377.76	1,891.10	1,292.00	
+3.89%
+NTPC	320.80	320.95	313.05	322.75	
+315.10
+-	-7.65	-2.37	1,00,94,465	320.64	414.40	313.05	
+-4.52%
+COALINDIA	421.20	426.35	416.30	425.00	
+420.40
+-	-4.60	-1.08	75,14,836	316.36	491.25	369.60	
+0.61%
+DRREDDY	1,233.00	1,233.90	1,194.90	1,233.00	
+1,206.20
+-	-26.80	-2.17	26,07,818	316.11	1,414.90	1,101.00	
+4.30%
+TITAN	4,574.90	4,621.80	4,491.00	4,587.00	
+4,515.70
+-	-71.30	-1.55	6,94,098	315.21	5,186.70	3,351.00	
+-11.00%
+INDIGO	4,936.00	5,016.20	4,878.00	4,984.00	
+4,929.90
+-	-54.10	-1.09	5,92,514	292.55	5,970.00	3,895.20	
+-1.79%
+ONGC	224.75	224.99	220.60	225.80	
+222.37
+-	-3.43	-1.52	1,30,99,985	291.74	307.50	220.60	
+-6.37%
+POWERGRID	258.20	259.00	252.35	260.50	
+254.55
+-	-5.95	-2.28	1,09,76,701	280.36	324.95	250.00	
+-4.59%
+HINDUNILVR	1,870.10	1,873.60	1,826.90	1,879.10	
+1,836.00
+-	-43.10	-2.29	13,31,680	245.68	2,667.20	1,826.90	
+-7.04%
+ASIANPAINT	2,391.00	2,420.00	2,377.00	2,402.60	
+2,407.00
+-	4.40	0.18	10,05,836	240.04	2,985.70	2,115.00	
+-4.77%
+TRENT	2,615.00	2,624.00	2,545.80	2,621.60	
+2,580.00
+-	-41.60	-1.59	8,96,919	231.59	3,399.70	2,183.67	
+-9.55%
+HDFCLIFE	518.00	538.90	517.40	521.20	
+534.20
+-	13.00	2.49	40,08,935	212.98	788.50	508.70	
+0.23%
+NESTLEIND	1,301.90	1,320.90	1,295.00	1,310.00	
+1,307.70
+-	-2.30	-0.18	16,26,876	212.80	1,553.00	1,145.00	
+-8.23%
+TATACONSUM	952.00	964.80	945.00	949.50	
+957.00
+-	7.50	0.79	18,29,307	174.77	1,282.70	945.00	
+-5.43%
+CIPLA	1,349.10	1,359.40	1,333.40	1,346.00	
+1,344.00
+-	-2.00	-0.15	9,21,789	123.95	1,673.00	1,165.70	
+-4.87%
+Note:
+%CHNG: % change is calculated with respect to adjusted price on ex-date for Corporate Actions like: Dividend, Bonus, Consolidation, Rights & Face Value Split.
+52 W H/L: 52 week High & Low prices are adjusted for Bonus, Consolidation, Split & Rights Corporate actions.
+The legend for the 52-week H/L indicator is given below:
+for Stocks closer to 52-week high:
+- within 0% and 2%
+- within 2% and 5%
+- within 5% and 7%
+Symbols for Stocks closer to 52-week low:
+- within 0% and 2%
+- within 2% and 5%
+- within 5% and 7%
+In case, any of the index constituent undergo a scheme of arrangement (e.g. demerger), such stock will not be displayed under 'Market Watch - Equity/ Stock' section during Special Pre-Open session and it will be displayed post resumption of trading of such stock under 'Normal' market.
+Data is displayed for securities where orders have been received during the pre-open session.
+Trade Timings for T+0 settlement: One continuous trading session from 09:15 AM to 1:30 PM.
+Price Band for T+0 settlement: Price band of +/- 1% (100 Basis points) based on close price of corresponding T+1 settled security, which will be re-calibrated throughout the trading hours after +/- 0.5% (50 basis points) movement in the LTP of T+1 settled security in the regular market.
+Quick Links
+Equity
+Listing
+IPO
+Pre-Open Market
+Top 20 Gainers/ Losers
+Volume Gainers
+52 Week High/Low
+Price Band Hitters
+Equity Market Watch
+SME Market Watch
+Indices Watch
+ETF Market Watch
+Debt Market Watch
+Bulk/Block Deals
+SLB Market Watch
+Derivatives
+Option Chain
+Most Active Contracts
+Most Active Underlying
+Change in Open Interest
+Currency Derivatives
+Commodity Derivatives
+Interest Rate Derivatives
+Reports
+Equity Bhavcopy
+Equity Derivatives Bhavcopy
+Security-wise Price Volume
+Contract-wise Price Volume
+Currency Derivatives Bhavcopy
+Commodity Derivatives Bhavcopy
+Historical Index Data
+Business Growth & Volume
+Corporates
+Announcements
+Corporate Actions
+Financial Results
+Board Meetings
+Annual Reports
+Shareholding Patterns
+Unitholding Patterns
+Shareholder's Meetings
+Voting Results
+Exchange Communication
+Circulars
+Press Releases
+Market Timings
+Holidays
+Media Center
+Online Courses
+Forms & Formats
+Contact Us
+About NSE
+About Us
+Structure & Key Personnel
+Awards and Recognitions
+Regulations
+Event Gallery
+Media
+Holidays
+Careers
+Contact Us
+Web Information Manager
+NSE Group Companies
+NAL Academy Limited
+NSE Clearing
+NSE Data & Analytics
+NSE Foundation
+NSE Indices
+NSE International Exchange
+NSE International Clearing
+NSE Investments
+View all
+Products & Services
+Equity Market
+Indices
+Emerge Platform
+Mutual Funds
+Equity Derivatives
+Currency Derivatives
+Commodity Derivatives
+Interest Rate Derivatives
+Fixed Income and Debt
+Public Issues
+Disclaimer
+Privacy Policy
+Terms of Use
+Copyright
+Feedback
+Site Map
+Website Policies
+Empanelment of Internal Auditors/System Auditor of Members
+List of Empaneled Audit Firms
+Help
+FAQs
+Download NSE App
+appstore
+playstore
+Scan QR to
+Download App
+qr-code
+NSE GO-BID
+Login to
+NCFM
+Copyright © National Stock Exchange of India Ltd. All rights reserved. Best viewed in Chrome and 1366 X 768 resolution. Recommended to use latest browser versions.
+
+GIGWGIGW Compliant
+
+WhatsApp Icon
+3 Oct 2026 | 02:14 (IST)
